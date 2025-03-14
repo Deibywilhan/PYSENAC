@@ -1,5 +1,5 @@
 print("Controle de Entrada ")
-listaban=("[junior],[Maria],[Jessica]").lower
+listaban=["junior","Maria","Jessica"].lower
 nome=input("Digite Seu nome ! ")
 idade=int(input("Digite Sua idade :"))
 pais=input("Está acompanhado dos pais? S/N ").lower
